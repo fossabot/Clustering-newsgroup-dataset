@@ -1,6 +1,8 @@
 Prompt statement : Crawl, scrape, or download a news corpus or dataset (e.g. WSJ corpus, NYT corpus, your favorite news site, etc.) in the amount of at least 5000 articles. Group these algorithmically into 20 “buckets”. Justify your choice of algorithm and define or interpret the significance of the resultant “buckets”. 
 
 ## Specifications: 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkhyatith%2FClustering-newsgroup-dataset.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkhyatith%2FClustering-newsgroup-dataset?ref=badge_shield)
+
 
 1. This project is done using Python.
     
@@ -113,3 +115,7 @@ sudo apt-get install python-dev
  
   
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkhyatith%2FClustering-newsgroup-dataset.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkhyatith%2FClustering-newsgroup-dataset?ref=badge_large)
